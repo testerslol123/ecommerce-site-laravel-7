@@ -7,6 +7,7 @@
     <!-- SLIDER -->
 	@include('homepage.slider')
     <!-- BLOCKS WRAP -->
+    {{-- 
     <div class="block-main container">
         <div class="row">
             <div class="col-md-4 col-sm-4">
@@ -36,10 +37,13 @@
         </div>
     </div>
 
+     --}}
+
     <div class="clearfix"></div>
 
     @include('homepage.featured-product')
     @include('homepage.policy')
+    {{-- 
     @include('homepage.blog')
     @include('homepage.new-arrival')
     <div class="space30 clearfix"></div>
@@ -48,11 +52,14 @@
     <div class="space10 clearfix"></div>
     @include('homepage.client')
 
+     --}}
+
 
 
 @stop
 
 @section('javascript')
+    <script type="text/javascript" src="{{ asset('js/product.js') }}"></script>
 @stop
 
 @section('modal')
@@ -60,7 +67,7 @@
 @stop
 
 @section('footer-widget')
-	@include('homepage.footer-widget')
+	{{-- @include('homepage.footer-widget') --}}
 @stop
 
 @section('newsletter')

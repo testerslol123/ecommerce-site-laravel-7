@@ -8,10 +8,11 @@
                     </div>
                     <div class="tb_center pull-left">
                         <ul>
-                            <li><i class="fa fa-phone"></i> Hotline: <a href="#">(+800) 2307 2509 8988</a></li>
-                            <li><i class="fa fa-envelope-o"></i> <a href="#">online support@smile.com</a></li>
+                            <li><i class="fa fa-phone"></i> Hotline: <a href="#">(+62) 899-9900-502</a></li>
+                            <li><i class="fa fa-envelope-o"></i> <a href="#">admin@momiku.com</a></li>
                         </ul>
                     </div>
+                    {{-- 
                     <div class="tb_right pull-right">
                         <ul>
                             <li>
@@ -47,6 +48,7 @@
                             </li>
                         </ul>
                     </div>
+                     --}}
                 </div>
             </div>
         </div>

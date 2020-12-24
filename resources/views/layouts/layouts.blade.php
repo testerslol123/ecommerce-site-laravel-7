@@ -16,7 +16,7 @@
             @include('layouts.topbar')
 
             <!-- HEADER -->
-            @include('layouts.header')
+            {{-- @include('layouts.header') --}}
 
 
             @yield('content')
