@@ -8,8 +8,8 @@
                     </div>
                     <div class="tb_center pull-left">
                         <ul>
-                            <li><i class="fa fa-phone"></i> Hotline: <a href="#">(+62) 899-9900-502</a></li>
-                            <li><i class="fa fa-envelope-o"></i> <a href="#">admin@momiku.com</a></li>
+                            <li><i class="fa fa-phone"></i> Hotline/WA: <a href="#">(+62) 858-9136-7977</a></li>
+                            <li><i class="fa fa-envelope-o"></i> <a href="#">momiku.business@gmail.com</a></li>
                         </ul>
                     </div>
                     {{-- 

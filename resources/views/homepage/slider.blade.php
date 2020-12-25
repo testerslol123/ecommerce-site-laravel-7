@@ -36,7 +36,7 @@
                                      style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;font-family: Raleway;
                                      font-size: 36px;
                                      font-weight: bold;
-                                     text-transform: uppercase;	color: #343434;">Amazing <span class="ss-color" style="color:#d6644a;">Outlet</span></div>
+                                     text-transform: uppercase;	color: #343434;">Momiku For Your Baby ! </div>
                                 <div class="tp-caption lft skewtoleftshort rs-parallaxlevel-9"
                                      data-x="center"
                                      data-y="310"
@@ -50,8 +50,9 @@
                                      style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;	font-family: Raleway;
                                      font-size: 18px;
                                      color: #333;text-align:center;">
-                                    Clean & Elegant design with a modern style. This template includes<br>
-                                    all you need for a fashion & accessories store
+                                    Design with love , Deliver the comfort 
+                                    <br/>Get Shipping fee All Over Indonesia only 10K !
+
                                 </div>
                                 <div class="tp-caption lft skewtoleftshort rs-parallaxlevel-9"
                                      data-x="center"
@@ -115,7 +116,7 @@
                                      style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;font-family: Raleway;
                                      font-size: 36px;
                                      font-weight: bold;
-                                     text-transform: uppercase;	color: #343434;">Women <span class="ss-color" style="color:#d6644a;">Clothing</span>
+                                     text-transform: uppercase;	color: #343434;">Momiku For Your Baby ! 
                                 </div>
                                 <div class="tp-caption lft skewtoleftshort rs-parallaxlevel-9"
                                      data-x="center"
@@ -130,8 +131,8 @@
                                      style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;	font-family: Raleway;
                                      font-size: 18px;
                                      color: #333;text-align:center;">
-                                    Clean & Elegant design with a modern style. This template includes<br>
-                                    all you need for a fashion & accessories store
+                                    Design with love , Deliver the comfort 
+                                    <br/>Get Shipping fee All Over Indonesia only 10K !
                                 </div>
                                 <div class="tp-caption lft skewtoleftshort rs-parallaxlevel-9"
                                      data-x="center"

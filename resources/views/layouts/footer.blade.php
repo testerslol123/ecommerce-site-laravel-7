@@ -2,17 +2,22 @@
     <div class="container">
         <div class="row">
             <div class="col-md-3 widget-footer col-sm-3">
-                <h5>About Store</h5>
-                <img src="images/basic/logo-lite.png" class="img-responsive space10" alt=""/>
-                <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus</p>
+                <h5>About Momiku</h5>
+                <h2>Hi Momi :)</h2>
+                {{-- <img src="images/basic/logo-lite.png" class="img-responsive space10" alt=""/> --}}
+                <p>Welcome to Momiku Indonesia!</p>
+                <p>Momiku is the official account that focuses on clothes and necessities for babies with cute designs and comfortable materials for your little one!</p>
+                <p>100% Made with High Quality!</p>
+                <p>Follow our IG: momiku_id</p>
+                <p>Operational hour :</p>
+                <p>Monday - Friday: 08:30 - 17:30 WIB</p>
+                <p>Saturday: 08:30 - 15:00 WIB</p>
+                <p>Happy Shopping, Moms!</p>
+
                 <div class="clearfix"></div>
                 <ul class="f-social">
-                    <li><a href="https://www.facebook.com" class="fa fa-facebook"></a></li>
-                    <li><a href="https://www.twitter.com" class="fa fa-twitter"></a></li>
-                    <li><a href="https://feedburner.google.com" class="fa fa-rss"></a></li>
-                    <li><a href="mailto:email@website.com" class="fa fa-envelope"></a></li>
-                    <li><a href="https://www.pinterest.com" class="fa fa-pinterest"></a></li>
-                    <li><a href="https://www.instagram.com" class="fa fa-instagram"></a></li>
+                    <li><a href="https://www.facebook.com/Momiku_id" class="fa fa-facebook"></a></li>
+                    <li><a href="https://www.instagram.com/momiku_id" class="fa fa-instagram"></a></li>
                 </ul>
             </div>
             <div class="col-md-3 col-sm-3 widget-footer">

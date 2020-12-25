@@ -5,29 +5,30 @@
                         <div class="col-md-3 col-sm-3">
                             <div class="pi-wrap text-center">
                                 <i class="fa fa-plane"></i>
-                                <h4>Free shipping<span>Free shipping on all UK order</span></h4>
-                                <p>Nulla ac nisi egestas metus aliquet euismod. Sed pulvinar lorem at pretium.</p>
+                                <h4>Shipping Fee ONLY 10k !<span>Pengiriman ke seluruh Indonesia hanya 10k / kg</span></h4>
+                                <p>Checkout now moms ! 🤗</p>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-3">
                             <div class="pi-wrap text-center">
                                 <i class="fa fa-money"></i>
-                                <h4>Money Guarantee<span>30 days money back guarantee !</span></h4>
-                                <p>Curabitur ornare urna enim, et lacinia purus tristique eulla eget feugiat diam.</p>
+                                <h4>Money Guarantee</h4>
+                                <p>Jaminan uang kembali apabila barang yang di terima tidak sesuai / cacat . Pastikan lampirkan video unboxing sebelum mengajukan claim . Tidak ada video unboxing = tidak bisa di claim ya mom 😊</p>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-3">
                             <div class="pi-wrap text-center">
                                 <i class="fa fa-clock-o"></i>
-                                <h4>Store Hours<span>Open: 9:00AM - Close: 21:00PM</span></h4>
-                                <p>Etiam egestas purus eget sagittis lacinia. Morbi vel elit nec eros iaculis.</p>
+                                <h4>Store Hours<span>Operational hour :</span></h4>
+                                <p>Monday - Friday: 08:30 - 17:30 WIB</p>
+                                <p>Saturday: 08:30 - 15:00 WIB</p>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-3">
                             <div class="pi-wrap text-center">
                                 <i class="fa fa-life-ring"></i>
-                                <h4>Support 24/7<span>We support online 24 hours a day</span></h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit integer congue.</p>
+                                <h4>Next Purchase Special Treatment</h4>
+                                <p>Share belanjaan Momi di IG  & Tag kami di @momiku_id . Kirim bukti screenshot tag nya ke CS kami ya . Ada pilihan hadiah menarik / Discount voucher untuk pembelanjaan berikutnya 😊</p>
                             </div>
                         </div>
                     </div>

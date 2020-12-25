@@ -4,11 +4,11 @@
                     <div class="row">
                         <h5 class="heading"><span>Featured Products</span></h5>
                         <ul class="filter" data-option-key="filter">
-                            <li><a href="#" data-option-value=".jumper" class="selected">Momiku Jumper</a></li>
-                            <li><a href="#" data-option-value=".romper">Momiku Romper</a></li>
-                            <li><a href="#" data-option-value=".dress">Momiku Dress</a></li>
-                            <li><a href="#" data-option-value=".daily">Momiku Daily Basic</a></li>
-                            <li><a href="#" data-option-value=".sleeveless">Momiku Sleeveless Jumper</a></li>
+                            <li><a href="#" data-option-value=".jumper" class="selected">Jumper</a></li>
+                            <li><a href="#" data-option-value=".romper">Romper</a></li>
+                            <li><a href="#" data-option-value=".dress">Dress</a></li>
+                            <li><a href="#" data-option-value=".daily">One Set Clothes</a></li>
+                            <li><a href="#" data-option-value=".sleeveless">Sleeveless Jumper</a></li>
                         </ul>
                         <div id="isotope" class="isotope">
                             <div class="isotope-item jumper">
@@ -49,7 +49,7 @@
                                     <div class="item-thumb">
                                         <div class="badge new">New</div>
                                         <img src="{{ explode(',', $product->image_url)[0] }}" class="img-responsive" alt=""/>
-                                        <div class="overlay-rmore fa fa-search quickview" data-toggle="modal" data-target="#myModal"></div>
+                                        <div class="overlay-rmore fa fa-search quickview" data-id="{{ $product->id }}"></div>
                                         {{-- 
                                         <div class="product-overlay">
                                             <a href="#" class="addcart fa fa-shopping-cart"></a>
@@ -83,7 +83,7 @@
                                     <div class="item-thumb">
                                         <div class="badge new">New</div>
                                         <img src="{{ explode(',', $product->image_url)[0] }}" class="img-responsive" alt=""/>
-                                        <div class="overlay-rmore fa fa-search quickview" data-toggle="modal" data-target="#myModal"></div>
+                                        <div class="overlay-rmore fa fa-search quickview" data-id="{{ $product->id }}"></div>
                                         {{-- 
                                         <div class="product-overlay">
                                             <a href="#" class="addcart fa fa-shopping-cart"></a>
@@ -114,7 +114,7 @@
                                     <div class="item-thumb">
                                         <div class="badge new">New</div>
                                         <img src="{{ explode(',', $product->image_url)[0] }}" class="img-responsive" alt=""/>
-                                        <div class="overlay-rmore fa fa-search quickview" data-toggle="modal" data-target="#myModal"></div>
+                                        <div class="overlay-rmore fa fa-search quickview" data-id="{{ $product->id }}"></div>
                                         {{-- 
                                         <div class="product-overlay">
                                             <a href="#" class="addcart fa fa-shopping-cart"></a>
@@ -146,7 +146,7 @@
                                     <div class="item-thumb">
                                         <div class="badge new">New</div>
                                         <img src="{{ explode(',', $product->image_url)[0] }}" class="img-responsive" alt=""/>
-                                        <div class="overlay-rmore fa fa-search quickview" data-toggle="modal" data-target="#myModal"></div>
+                                        <div class="overlay-rmore fa fa-search quickview" data-id="{{ $product->id }}"></div>
                                         {{-- 
                                         <div class="product-overlay">
                                             <a href="#" class="addcart fa fa-shopping-cart"></a>
