@@ -24,7 +24,7 @@ class HomeController extends Controller
      */
     public function index()
     {
-        $data['products'] = Product::all();
+        $data['products'] = Product::orderBy('urutan', 'ASC')->get();
         return view('homepage.index', $data);
     }
 }

@@ -8,7 +8,7 @@
                     </div>
                     <div class="tb_center pull-left">
                         <ul>
-                            <li><i class="fa fa-phone"></i> Hotline/WA: <a href="#">(+62) 858-9136-7977</a></li>
+                            <li><i class="fa fa-phone"></i> Hotline/WA: <a href="https://wa.me/6285891367977?text=hi,momiku, saya ingin bertanya">(+62) 858-9136-7977</a></li>
                             <li><i class="fa fa-envelope-o"></i> <a href="#">momiku.business@gmail.com</a></li>
                         </ul>
                     </div>

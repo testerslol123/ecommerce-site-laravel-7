@@ -2,7 +2,7 @@
 <script src="{{ asset('js/jquery.js') }}"></script>
 
 <!-- ADDTHIS -->
-<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-557a95e76b3e51d9" async="async"></script>
+<script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-557a95e76b3e51d9" async="async"></script>
 <script type="text/javascript">
     // Call this function once the rest of the document is loaded
     function loadAddThis() {
@@ -11,7 +11,7 @@
 </script>
 
 <!-- ADDTHIS -->
-<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-557a95e76b3e51d9" async="async"></script>
+<script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-557a95e76b3e51d9" async="async"></script>
 <script type="text/javascript">
     // Call this function once the rest of the document is loaded
     function loadAddThis() {

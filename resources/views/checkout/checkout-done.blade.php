@@ -24,6 +24,7 @@
                         <form id="shipping-zip-form">
                             @csrf
                             <h3>Data Customer:</h3>
+                            <p>Nomor order anda: {{ $order->grand_total }}</p>
                             <p>Nama: {{ $order->name }}</p>
                             <p>Alamat: {{ $order->alamat }}</p>
                             <p>Kelurahan: {{ $order->kelurahan }}</p>
@@ -34,6 +35,10 @@
                         </form>
                     </div>
                     <div class="clearfix"></div>   
+                    <div class="account-form">
+                        <p>Silahkan WA ke nomor di bawah ini untuk konfirmasi langsung:</p>
+                        <a href="https://wa.me/6285891367977?text={{ urlencode('saya ingin melakukan konfirmasi order. No order saya adalah ' . $order->grand_total) }}" class="" target="_blank">Click untuk konfirmasi Whatsapp</a>
+                    </div>
                 </div>
             </div>
             <div class="col-md-3 col-sm-4">
@@ -66,7 +71,7 @@
                                 <tr>
                                     <th>Cart Subtotal</th>
                                     <td>
-                                        <div class="">{{ $subtotal_price }}</div>
+                                        <div class="">Rp. {{ number_format($subtotal_price) }}</div>
                                     </td> 
                                 </tr>
                                 <tr>
@@ -78,7 +83,7 @@
                                 <tr>
                                     <th>Order Total</th>
                                     <td>
-                                        <div class="">{{ $order->grand_total }}</div>
+                                        <div class="">Rp. {{ number_format($order->grand_total) }}</div>
                                     </td> 
                                 </tr>
                             </tfoot>

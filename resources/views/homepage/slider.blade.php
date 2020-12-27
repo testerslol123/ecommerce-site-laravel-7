@@ -5,7 +5,7 @@
                             <!-- SLIDE  -->
                             <li data-transition="fade" data-slotamount="2" data-masterspeed="500" data-thumb="homeslider_thumb1.jpg"  data-saveperformance="on"  data-title="Intro Slide">
                                 <!-- MAIN IMAGE -->
-                                <img src="images/dummy.png"  alt="slidebg1" data-lazyload="images/slides/2.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+                                <img src="{{ asset('images/banner-2.png') }}"  alt="slidebg1" data-lazyload="{{ asset('images/banner-2.png') }}" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
                                 <!-- LAYERS -->
                                 <div class="tp-caption customin fadeout tp-resizeme rs-parallaxlevel-10"
                                      data-x="center"
@@ -36,7 +36,7 @@
                                      style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;font-family: Raleway;
                                      font-size: 36px;
                                      font-weight: bold;
-                                     text-transform: uppercase;	color: #343434;">Momiku For Your Baby ! </div>
+                                     text-transform: uppercase;	color: #343434;">Welcome to Momiku :)</div>
                                 <div class="tp-caption lft skewtoleftshort rs-parallaxlevel-9"
                                      data-x="center"
                                      data-y="310"
@@ -50,7 +50,7 @@
                                      style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;	font-family: Raleway;
                                      font-size: 18px;
                                      color: #333;text-align:center;">
-                                    Design with love , Deliver the comfort 
+                                    Design with love , Deliver the comfort  
                                     <br/>Get Shipping fee All Over Indonesia only 10K !
 
                                 </div>
@@ -65,7 +65,7 @@
                                      data-end="7300"
                                      data-endspeed="1000"
                                      style="z-index: 3; max-width: 80px; max-height: 4px; width:100%;height:100%;background:#000000;"></div>
-                                <a href="./categories-grid.html" class="tp-caption lft skewtoleftshort rs-parallaxlevel-9"
+                                <a href="javascript:void(0);" class="tp-caption lft skewtoleftshort rs-parallaxlevel-9"
                                    data-x="center"
                                    data-y="395"
                                    data-speed="1000"
@@ -85,7 +85,7 @@
                             </li>
                             <li data-transition="fade" data-slotamount="2" data-masterspeed="500" data-thumb="homeslider_thumb1.jpg"  data-saveperformance="on"  data-title="Intro Slide">
                                 <!-- MAIN IMAGE -->
-                                <img src="images/dummy.png"  alt="slidebg1" data-lazyload="images/slides/1.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+                                <img src="{{ asset('images/banner-2.png') }}"  alt="slidebg1" data-lazyload="{{ asset('images/banner-2.png') }}" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
                                 <!-- LAYERS -->
                                 <div class="tp-caption customin fadeout tp-resizeme rs-parallaxlevel-10"
                                      data-x="center"
@@ -116,7 +116,7 @@
                                      style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;font-family: Raleway;
                                      font-size: 36px;
                                      font-weight: bold;
-                                     text-transform: uppercase;	color: #343434;">Momiku For Your Baby ! 
+                                     text-transform: uppercase;	color: #343434;">Welcome to Momiku :) 
                                 </div>
                                 <div class="tp-caption lft skewtoleftshort rs-parallaxlevel-9"
                                      data-x="center"
@@ -146,7 +146,7 @@
                                      data-endspeed="1000"
                                      style="z-index: 3; max-width: 80px; max-height: 4px; width:100%;height:100%;background:#000000;">
                                 </div>
-                                <a href="./categories-grid.html" class="tp-caption lft skewtoleftshort rs-parallaxlevel-9"
+                                <a href="javascript:void(0);" class="tp-caption lft skewtoleftshort rs-parallaxlevel-9"
                                    data-x="center"
                                    data-y="395"
                                    data-speed="1000"

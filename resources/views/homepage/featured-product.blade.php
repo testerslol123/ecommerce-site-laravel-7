@@ -14,7 +14,7 @@
                             <div class="isotope-item jumper">
                                 <div class="product-item">
                                     @foreach($products as $product)
-                                    @if ($product->type == 1)
+                                    @if ($product->type == 3)
                                     <div class="item-thumb">
                                         <div class="badge new">New</div>
                                         <img src="{{ explode(',', $product->image_url)[0] }}" class="img-responsive" alt=""/>
@@ -45,7 +45,7 @@
                             <div class="isotope-item romper">
                                 <div class="product-item">
                                     @foreach($products as $product)
-                                    @if ($product->type == 2)
+                                    @if ($product->type == 4)
                                     <div class="item-thumb">
                                         <div class="badge new">New</div>
                                         <img src="{{ explode(',', $product->image_url)[0] }}" class="img-responsive" alt=""/>
@@ -79,7 +79,7 @@
                             <div class="isotope-item dress">
                                 <div class="product-item">
                                     @foreach($products as $product)
-                                    @if ($product->type == 3)
+                                    @if ($product->type == 1)
                                     <div class="item-thumb">
                                         <div class="badge new">New</div>
                                         <img src="{{ explode(',', $product->image_url)[0] }}" class="img-responsive" alt=""/>
@@ -110,7 +110,7 @@
                             <div class="isotope-item daily">
                                 <div class="product-item">
                                     @foreach($products as $product)
-                                    @if ($product->type == 4)
+                                    @if ($product->type == 2)
                                     <div class="item-thumb">
                                         <div class="badge new">New</div>
                                         <img src="{{ explode(',', $product->image_url)[0] }}" class="img-responsive" alt=""/>
