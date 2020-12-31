@@ -25,8 +25,24 @@ class ShopController extends Controller
     			'status' => "failed"
     		]);
     	}
-
-
-
     }
+
+    public function productDetailPage($slug) {
+        if ($slug && $slug !== '') {
+            $product = Product::where('slug', $slug)->first();
+            if ($product) {
+                $data['product'] = $product;
+                return view('shop/product-detail', $data);
+            } else {
+                return redirect('/');
+            }
+        } else {
+            return redirect('/');
+        }
+    }
+
+
+
+
+
 }

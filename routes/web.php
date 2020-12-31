@@ -16,15 +16,26 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', 'HomeController@index');
 
 Route::get('shop', 'ShopController@index');
+
+Route::get('product/detail/{slug}', 'ShopController@productDetailPage');
+
 Route::post('detail-product', 'ShopController@productDetail');
 
 Route::post('checkout', 'CheckoutController@checkout');
 Route::post('checkout-done', 'CheckoutController@checkoutDone');
 
+
+
+
 Route::prefix('account')->group(function() {
 	Route::get('', 'AccountController@index');
 	Route::post('', 'AccountController@changeProfile');
 });
+
+
+// Route::get('contoh', function() {
+// 	return view('contoh');
+// });
 
 
 Auth::routes();

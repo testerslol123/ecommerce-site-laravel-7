@@ -1,5 +1,10 @@
 $('.quickview').on('click', function(ev) {
 	ev.preventDefault();
+	var slug = $(this).data('slug');
+	window.location = '/product/detail/'+slug
+
+
+	/*
 	var product_id = $(this).data('id');
 	var thisModal = $('#myModal');
 
@@ -125,6 +130,7 @@ $('.quickview').on('click', function(ev) {
 	}).fail(function(err) {
 		console.log(err)
 	});
+	*/
 });
 
 
