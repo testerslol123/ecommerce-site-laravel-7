@@ -83,7 +83,7 @@
                                     <div class="item-thumb">
                                         <div class="badge new">New</div>
                                         <img src="{{ explode(',', $product->image_url)[0] }}" class="img-responsive" alt=""/>
-                                        <div class="overlay-rmore fa fa-search quickview" data-id="{{ $product->id }}"></div>
+                                        <div class="overlay-rmore fa fa-search quickview" data-id="{{ $product->id }}" data-slug="{{ $product->slug }}"></div>
                                         {{-- 
                                         <div class="product-overlay">
                                             <a href="#" class="addcart fa fa-shopping-cart"></a>
@@ -114,7 +114,7 @@
                                     <div class="item-thumb">
                                         <div class="badge new">New</div>
                                         <img src="{{ explode(',', $product->image_url)[0] }}" class="img-responsive" alt=""/>
-                                        <div class="overlay-rmore fa fa-search quickview" data-id="{{ $product->id }}"></div>
+                                        <div class="overlay-rmore fa fa-search quickview" data-id="{{ $product->id }}" data-slug="{{ $product->slug }}"></div>
                                         {{-- 
                                         <div class="product-overlay">
                                             <a href="#" class="addcart fa fa-shopping-cart"></a>
@@ -146,7 +146,7 @@
                                     <div class="item-thumb">
                                         <div class="badge new">New</div>
                                         <img src="{{ explode(',', $product->image_url)[0] }}" class="img-responsive" alt=""/>
-                                        <div class="overlay-rmore fa fa-search quickview" data-id="{{ $product->id }}"></div>
+                                        <div class="overlay-rmore fa fa-search quickview" data-id="{{ $product->id }}" data-slug="{{ $product->slug }}"></div>
                                         {{-- 
                                         <div class="product-overlay">
                                             <a href="#" class="addcart fa fa-shopping-cart"></a>
