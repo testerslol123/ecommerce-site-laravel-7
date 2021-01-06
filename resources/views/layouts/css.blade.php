@@ -1,10 +1,14 @@
 <!-- Meta -->
 <meta charset="utf-8">
 <meta name="keywords" content="HTML5 Template" />
-<meta name="description" content="Welcome to Momiku Shop. One that selling baby stuff">
+<meta name="description" content="Your right place to shop baby clothes!">
 <meta name="author" content="">
 
 <title>MOMIKU | ECOMMERCE FOR YOUR BABY</title>
+<meta property="og:title" content="Shipping all over Indonesia only 10K!">
+<meta property="og:description" content="Your right place to shop baby clothes ! 🥰">
+<meta property="og:image" content="https://momikuofficial.com/images/main.jpeg">
+<meta property="og:url" content="https://momikuofficial.com">
 
 <!-- Mobile Metas -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
